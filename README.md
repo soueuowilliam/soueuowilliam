@@ -1,6 +1,6 @@
 ### Olá! Eu sou o William Roberto Alves N.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/soueuowilliam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soueuowilliam&show_icons=False&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
@@ -13,9 +13,9 @@
   
 </div>
 
-- 🌱 Estudando Análise de Dados e Engenharia de Machine Learning
-- 📫 Contate-me no email: alveeswilliam@gmail.com
-- 😄 Pronouns: ele/dele
+- 🧠 Estudando Análise de Dados e Engenharia de Machine Learning
+- 📧 Contate-me no email: alveeswilliam@gmail.com
+- 👦 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
