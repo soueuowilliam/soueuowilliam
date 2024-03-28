@@ -5,6 +5,7 @@
 - 📫 Contate-me no email: alveeswilliam@gmail.com
 - 😄 Pronouns: ele/dele
 
-- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" 
+</div>
