@@ -26,5 +26,4 @@ Trabalho na interseção entre IA, software e processos de negócio.
 📫 Onde me encontrar
 
 💼 LinkedIn — estudos, projetos e evolução profissional
-
 💻 GitHub — projetos reais de IA, automação e dados
